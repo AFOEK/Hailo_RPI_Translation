@@ -1,9 +1,0 @@
-2026-11-19 17:11:13,744 - WARNING - __init__.py:70 - Cannot use graphviz, so no visualizations will be created
-2026-11-19 17:17:20,274 - WARNING - __init__.py:70 - Cannot use graphviz, so no visualizations will be created
-2026-11-19 17:17:30,803 - INFO - parser.py:223 - Translation started on ONNX model snowflake_arctic_embed_m_v2_full
-2026-11-19 17:17:33,716 - INFO - parser.py:250 - Restored ONNX model snowflake_arctic_embed_m_v2_full (completion time: 00:00:03.99)
-2026-11-21 22:03:33,853 - WARNING - __init__.py:70 - Cannot use graphviz, so no visualizations will be created
-2026-11-21 22:04:00,301 - INFO - parser.py:223 - Translation started on ONNX model snowflake_arctic_embed_m_v2_full
-2026-11-21 22:04:04,271 - INFO - parser.py:250 - Restored ONNX model snowflake_arctic_embed_m_v2_full (completion time: 00:00:06.16)
-2026-11-21 22:04:45,267 - INFO - parser.py:273 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:47.16)
-2026-11-21 22:05:00,566 - WARNING - parser.py:367 - ONNX shape inference failed: [ONNXRuntimeError] : 10 : INVALID_GRAPH : This is an invalid model. Type Error: Type 'tensor(float)' of input parameter (input_ids) of operator (Gather) in node (/0/auto_model/embeddings/word_embeddings/Gather) is invalid.
