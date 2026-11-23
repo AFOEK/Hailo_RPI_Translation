@@ -1,0 +1,6 @@
+*.onnx
+*.har
+*.hef
+*.log
+*.json
+.vscode/
